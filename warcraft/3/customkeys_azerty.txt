@@ -1,0 +1,2288 @@
+//move
+[CmdMove]
+Hotkey=M
+
+//attack
+[CmdAttack]
+Hotkey=Q
+
+//attack ground
+[CmdAttackGround]
+Hotkey=G
+
+//build (generic)
+[CmdBuild]
+Hotkey=B
+
+//build (human)
+[CmdBuildHuman]
+Hotkey=B
+
+//build (orc)
+[CmdBuildOrc]
+Hotkey=B
+
+//build (nightelf)
+[CmdBuildNightElf]
+Hotkey=B
+
+//build (undead)
+[CmdBuildUndead]
+Hotkey=B
+
+//cancel
+[CmdCancel]
+Hotkey=512
+
+//cancel build
+[CmdCancelBuild]
+Hotkey=512
+
+//cancel train
+[CmdCancelTrain]
+Hotkey=512
+
+//cancel revive
+[CmdCancelRevive]
+Hotkey=512
+
+//hold position
+[CmdHoldPos]
+Hotkey=H
+
+//patrol
+[CmdPatrol]
+Hotkey=P
+
+//rally
+[CmdRally]
+Hotkey=F
+
+//select skill
+[CmdSelectSkill]
+Hotkey=G
+
+//stop
+[CmdStop]
+Hotkey=S
+
+//normal harvest
+[Ahar]
+Hotkey=G
+Unotkey=G
+
+//lumber harvest (ghoul)
+[Ahrl]
+Hotkey=G
+Unotkey=G
+
+// peon/peasant repair ability
+[Arep]
+Hotkey=R
+Unotkey=R
+
+// neutral interact (Select user command) which is used on player shops, etc
+[Anei]
+Hotkey=U
+
+// Cargo Load (Zeppelin)
+[Aloa]
+Hotkey=A
+
+// Cargo Unload (zeppelin)
+[Adro]
+Hotkey=Z
+
+//cargo load (sea transport)
+[Slo3]
+Hotkey=A
+
+//cargo unload (sea transports)
+[Sdro]
+Hotkey=Z
+
+//dragonhawk 
+[hdhw]
+Hotkey=A
+
+// Aerial Shackles
+[Amls]
+Hotkey=A
+
+// Cloud
+[Aclf]
+Hotkey=Z
+
+//footman
+[hfoo]
+Hotkey=A
+
+// Defend
+[Adef]
+Hotkey=A
+Unotkey=A
+
+//flying machine
+[hgyr]
+Hotkey=A
+
+//knight
+[hkni]
+Hotkey=E
+
+//priest
+[hmpr]
+Hotkey=Z
+
+// Inner Fire
+[Ainf]
+Hotkey=E
+Unotkey=E
+
+// Heal
+[Ahea]
+Hotkey=A
+Unotkey=A
+
+// Dispel Magic
+[Adis]
+Hotkey=Z
+
+//mortar team
+[hmtm]
+Hotkey=Z
+
+// Flare
+[Afla]
+Hotkey=A
+
+//peasant
+[hpea]
+Hotkey=A
+
+// Call to Arms (For one or several peons)
+[Amil]
+Hotkey=X
+Unotkey=C
+
+// Call to Arms (for all nearby peons, on a town hall)
+[Amic]
+Hotkey=X
+Unotkey=C
+
+//rifleman
+[hrif]
+Hotkey=Z
+
+//sorceress
+[hsor]
+Hotkey=A
+
+// Slow
+[Aslo]
+Hotkey=A
+Unotkey=A
+
+// Polymorph
+[Aply]
+Hotkey=E
+
+// Invisibility
+[Aivs]
+Hotkey=Z
+
+//spell breaker
+[hspt]
+Hotkey=E
+
+// Spell Steal
+[Asps]
+Hotkey=A
+Unotkey=A
+
+// Control Magic
+[Acmg]
+Hotkey=Z
+
+//siege engine (without barrage)
+[hmtt]
+Hotkey=E
+
+//siege engine (with barrage)
+[hrtt]
+Hotkey=E
+
+//gryphon rider
+[hgry]
+Hotkey=Z
+
+//control magic
+[Rhss]
+Hotkey=D
+
+//iron swords upgrades
+[Rhme]
+Hotkey=Q,Q,Q
+
+//gunpowder upgrades
+[Rhra]
+Hotkey=W,W,W
+
+//iron armor upgrades
+[Rhar]
+Hotkey=A,A,A
+
+//leather armor upgrades
+[Rhla]
+Hotkey=S,S,S
+
+//masonry upgrades
+[Rhac]
+Hotkey=W,W,W
+
+//flying machine bombs
+[Rhgb]
+Hotkey=W
+
+//improved lumber harvesting upgrades
+[Rhlh]
+Hotkey=Q,Q
+
+//defend upgrade
+[Rhde]
+Hotkey=W
+
+//war animal training upgrade
+[Rhan]
+Hotkey=C
+
+//priest training upgrade
+[Rhpt]
+Hotkey=X,X
+
+//sorceress training upgrade
+[Rhst]
+Hotkey=Y,Y
+
+//long rifles upgrade
+[Rhri]
+Hotkey=X
+
+//magic sentry upgrade
+[Rhse]
+Hotkey=C
+
+//flare upgrade
+[Rhfl]
+Hotkey=X
+
+//storm hammers upgrade
+[Rhhb]
+Hotkey=X
+
+//barrage upgrade
+[Rhrt]
+Hotkey=C
+
+//backpack upgrade
+[Rhpm]
+Hotkey=R
+
+//flak cannons upgrade
+[Rhfc]
+Hotkey=Q
+
+//frag shards upgrade
+[Rhfs]
+Hotkey=S
+
+//cloud upgrade
+[Rhcd]
+Hotkey=W
+
+//altar of kings
+[halt]
+Hotkey=S
+
+//workshop
+[harm]
+Hotkey=F
+
+//arcane sanctum
+[hars]
+Hotkey=D
+
+//human barracks
+[hbar]
+Hotkey=Z
+
+//blacksmith
+[hbla]
+Hotkey=R
+
+//castle
+[hcas]
+Hotkey=W
+
+//farm
+[hhou]
+Hotkey=Q
+
+//gryphon aviary
+[hgra]
+Hotkey=X
+
+//Cannon Tower
+[hctw]
+Hotkey=Z
+
+//guard tower
+[hgtw]
+Hotkey=A
+
+//scout tower
+[hwtw]
+Hotkey=W
+
+//arcane tower
+[hatw]
+Hotkey=E
+
+// reveal on arcane tower
+[AHta]
+Hotkey=A
+
+//arcane vault
+[hvlt]
+Hotkey=C
+
+//lumber mill
+[hlum]
+Hotkey=E
+
+//keep
+[hkee]
+Hotkey=W
+
+//town hall
+[htow]
+Hotkey=A
+
+//blood mage
+[Hblm]
+Hotkey=R
+
+// Siphon Mana
+[AHdr]
+Hotkey=E
+Researchhotkey=E
+
+// Flame Strike
+[AHfs]
+Hotkey=A
+Researchhotkey=A
+
+// Banish
+[AHbn]
+Hotkey=Z
+Researchhotkey=Z
+
+// Summon Phoenix
+[AHpx]
+Hotkey=R
+Researchhotkey=R
+
+//archmage
+[Hamg]
+Hotkey=A
+
+// Blizzard
+[AHbz]
+Hotkey=A
+Researchhotkey=A
+
+// Summon Water Elemental
+[AHwe]
+Hotkey=Z
+Researchhotkey=Z
+
+// Brilliance Aura
+[AHab]
+Researchhotkey=E
+
+// Mass Teleport
+[AHmt]
+Hotkey=R
+Researchhotkey=R
+
+//mountain king
+[Hmkg]
+Hotkey=Z
+
+// Storm Bolt
+[AHtb]
+Hotkey=A
+Researchhotkey=A
+
+// Thunder Clap
+[AHtc]
+Hotkey=Z
+Researchhotkey=Z
+
+// Bash
+[AHbh]
+Researchhotkey=E
+
+// Avatar
+[AHav]
+Hotkey=R
+Unotkey=R
+Researchhotkey=R
+
+//paladin
+[Hpal]
+Hotkey=E
+
+// Holy Light
+[AHhb]
+Hotkey=A
+Researchhotkey=A
+
+// Divine Shield
+[AHds]
+Hotkey=Z
+Unotkey=Z
+Researchhotkey=Z
+
+// Devotion Aura
+[AHad]
+Researchhotkey=E
+
+// Resurrection
+[AHre]
+Hotkey=R
+Researchhotkey=R
+
+//demolisher
+[ocat]
+Hotkey=E
+
+//witch doctor
+[odoc]
+Hotkey=Z
+
+// Sentry Ward
+[Aeye]
+Hotkey=A
+
+// Stasis Trap spell
+[Asta]
+Hotkey=Z
+
+// Healing Ward
+[Ahwd]
+Hotkey=E
+
+//grunt
+[ogru]
+Hotkey=A
+
+//troll headhunter
+[ohun]
+Hotkey=Z
+
+//troll berserker
+[otbk]
+Hotkey=Z
+
+// Berserk
+[Absk]
+Hotkey=A
+
+//kodo beast
+[okod]
+Hotkey=E
+
+// Devour
+[Adev]
+Hotkey=A
+
+//peon
+[opeo]
+Hotkey=A
+
+//raider
+[orai]
+Hotkey=A
+
+// Ensnare
+[Aens]
+Hotkey=A
+
+//shaman
+[oshm]
+Hotkey=A
+
+// Purge
+[Aprg]
+Hotkey=A
+
+// Bloodlust
+[Ablo]
+Hotkey=E
+Unotkey=E
+
+// Lightning Shield
+[Alsh]
+Hotkey=Z
+
+//tauren
+[otau]
+Hotkey=A
+
+//troll batrider
+[otbr]
+Hotkey=R
+
+// Unstable Concoction
+[Auco]
+Hotkey=A
+Unotkey=A
+
+//wind rider
+[owyv]
+Hotkey=Z
+
+//spirit walker
+[ospm]
+Hotkey=E
+
+// Ancestral Spirit
+[Aast]
+Hotkey=E
+
+// Disenchant (new)
+[Adcn]
+Hotkey=Z
+
+// Corporeal Form
+[Acpf]
+Hotkey=R
+Unotkey=R
+
+// Ethereal Form
+[Aetf]
+Hotkey=R
+Unotkey=R
+
+// Spirit Link
+[Aspl]
+Hotkey=A
+
+//orc melee weapon upgrades
+[Rome]
+Hotkey=Q,Q,Q
+
+//orc ranged weapon upgrades
+[Rora]
+Hotkey=W,W,W
+
+//orc armor upgrades
+[Roar]
+Hotkey=A,A,A
+
+//war drums upgrade
+[Rwdm]
+Hotkey=C
+
+// Envenomed Spears upgrade
+[Rovs]
+Hotkey=S
+
+// Liquid Fire upgrade
+[Rolf]
+Hotkey=D
+
+// pillage upgrade
+[Ropg]
+Hotkey=E
+
+//berserker strength upgrade
+[Robs]
+Hotkey=W
+
+//pulverize upgrade
+[Rows]
+Hotkey=W
+
+//ensnare upgrade
+[Roen]
+Hotkey=W
+
+//envenomed spears upgrade
+[Rovs]
+Hotkey=D
+
+//witch doctor training upgrade
+[Rowd]
+Hotkey=X,X
+
+//shaman training upgrade
+[Rost]
+Hotkey=Y,Y
+
+//spided barricades upgrade
+[Rosp]
+Hotkey=E,E,E
+
+//troll regeneration upgrade
+[Rotr]
+Hotkey=S
+
+//liquid fire upgrade
+[Rolf]
+Hotkey=C
+
+//backpack upgrade (orc)
+[Ropm]
+Hotkey=R
+
+//spirit walker training upgrade
+[Rowt]
+Hotkey=C,C
+
+//troll berserker upgrade
+[Robk]
+Hotkey=X
+
+//reinforced defenses upgrade
+[Rorb]
+Hotkey=D
+
+//burning oil upgrade
+[Robf]
+Hotkey=C
+
+//altar of storms
+[oalt]
+Hotkey=S
+
+//orc barracks
+[obar]
+Hotkey=Z
+
+//bestiary
+[obea]
+Hotkey=F
+
+//war mill
+[ofor]
+Hotkey=E
+
+//fortress
+[ofrt]
+Hotkey=W
+
+//great hall
+[ogre]
+Hotkey=A
+
+//spirit lodge
+[osld]
+Hotkey=D
+
+//stronghold
+[ostr]
+Hotkey=W
+
+//orc burrow
+[otrb]
+Hotkey=Q
+
+//battle stations
+[Abtl]
+Hotkey=A
+
+//stand down from battle stations
+[Astd]
+Hotkey=Z
+
+//reinforced orc burrow
+[orbr]
+Hotkey=Q
+
+//tauren totem
+[otto]
+Hotkey=W
+
+//voodoo lounge
+[ovln]
+Hotkey=X
+
+//watch tower
+[owtw]
+Hotkey=R
+
+[Obla]
+Hotkey=A
+
+// Wind Walk
+[AOwk]
+Hotkey=A
+Researchhotkey=A
+
+// Critical Strike
+[AOcr]
+Researchhotkey=E
+
+// Mirror Image
+[AOmi]
+Hotkey=Z
+Researchhotkey=Z
+
+// Bladestorm
+[AOww]
+Hotkey=R
+Researchhotkey=R
+
+[Ofar]
+Hotkey=Z
+
+// Chain Lightning
+[AOcl]
+Hotkey=A
+Researchhotkey=A
+
+// Far Sight
+[AOfs]
+Hotkey=Z
+Researchhotkey=Z
+
+// Feral Spirit
+[AOsf]
+Hotkey=E
+Researchhotkey=E
+
+// Earthquake
+[AOeq]
+Hotkey=R
+Researchhotkey=R
+
+[Oshd]
+Hotkey=R
+
+// Healing Wave
+[AOhw]
+Hotkey=A
+Researchhotkey=A
+
+// Serpent Ward
+[AOsw]
+Hotkey=E
+Researchhotkey=E
+
+// Hex
+[AOhx]
+Hotkey=Z
+Researchhotkey=Z
+
+// Voodoo
+[AOvd]
+Hotkey=R
+Researchhotkey=R
+
+[Otch]
+Hotkey=E
+
+// Shockwave
+[AOsh]
+Hotkey=A
+Researchhotkey=A
+
+// Endurance Aura
+[AOae]
+Researchhotkey=E
+
+// War Stomp (Chieftan)
+[AOws]
+Hotkey=Z
+Researchhotkey=Z
+
+// Reincarnation
+[AOre]
+Researchhotkey=R
+
+// Shadow Meld 
+[Ashm]
+Hotkey=F
+
+//glaive thrower
+[ebal]
+Hotkey=E
+
+//chimaera
+[echm]
+Hotkey=A
+
+//druid of the claw, night elf form
+[edoc]
+Hotkey=Z
+
+// Roar, night elf form
+[Aroa]
+Hotkey=A
+
+// Rejuvenation
+[Arej]
+Hotkey=Z
+
+// Bear Form
+[Abrf]
+Hotkey=R
+Unotkey=R
+
+// Roar (bear form)
+[Ara2]
+Hotkey=A
+
+//druid of the talon
+[edot]
+Hotkey=Z
+
+// Faerie Fire
+[Afae]
+Hotkey=A
+Unotkey=A
+
+// Cyclone
+[Acyc]
+Hotkey=Z
+
+// Crow Form
+[Arav]
+Hotkey=R
+Unotkey=R
+
+// Faerie Fire (Crow form)
+[Afa2]
+Hotkey=A
+Unotkey=A
+
+//wisp
+[ewsp]
+Hotkey=A
+
+// Renew
+[Aren]
+Hotkey=R
+Unotkey=R
+
+// Wisp Harvest
+[Awha]
+Hotkey=F
+
+// Detonate
+[Adtn]
+Hotkey=D
+
+//huntress
+[esen]
+Hotkey=Z
+
+// Sentinel
+[Aesn]
+Hotkey=A
+
+//archer
+[earc]
+Hotkey=A
+
+// Mount Hippogryph
+[Aco2]
+Hotkey=A
+
+// Dismount Hippogryph
+[Adec]
+Hotkey=A
+
+//dryad
+[edry]
+Hotkey=A
+
+// Auto-Dispel Magic
+[Aadm]
+Hotkey=A
+Unotkey=A
+
+//hippogryph
+[ehip]
+Hotkey=A
+
+// Pick up Archer
+[Aco3]
+Hotkey=A
+
+//mountain giant
+[emtg]
+Hotkey=E
+
+// War Club
+[Agra]
+Hotkey=Z
+
+// Taunt
+[Atau]
+Hotkey=A
+
+//faerie dragon
+[efdr]
+Hotkey=E
+
+// Mana Flare
+[Amfl]
+Hotkey=Z
+Unotkey=Z
+
+// Phase Shift
+[Apsh]
+Hotkey=A
+Unotkey=A
+
+//strength of the moon upgrades
+[Resm]
+Hotkey=M,M,M
+
+//strength of the wild upgrades
+[Resw]
+Hotkey=W,W,W
+
+//moon armor upgrades
+[Rema]
+Hotkey=A,A,A
+
+//reinforced hide upgrades
+[Rerh]
+Hotkey=S,S,S
+
+//ultravision
+[Reuv]
+Hotkey=E
+
+//nature's blessing upgrade
+[Renb]
+Hotkey=E
+
+//improved bows upgrade
+[Reib]
+Hotkey=Q
+
+//marksmanship upgrade
+[Remk]
+Hotkey=W
+
+//sentinel upgrade
+[Resc]
+Hotkey=S
+
+//moon glaive upgrade
+[Remg]
+Hotkey=X
+
+//druid of the talon training upgrade
+[Redt]
+Hotkey=X,X
+
+//druid of the claw training upgrade
+[Redc]
+Hotkey=X,X
+
+//abolish magic upgrade
+[Resi]
+Hotkey=W
+
+//hippogryph taming upgrade
+[Reht]
+Hotkey=W
+
+//corrosive breath upgrade
+[Recb]
+Hotkey=W
+
+//vorpal blades upgrade
+[Repb]
+Hotkey=C
+
+//resistant skin upgrade
+[Rers]
+Hotkey=C
+
+//hardened skin upgrade
+[Rehs]
+Hotkey=D
+
+//mark of the claw upgrade
+[Reeb]
+Hotkey=S
+
+//mark of the talon upgrade
+[Reec]
+Hotkey=S
+
+//wellspring upgrade
+[Rews]
+Hotkey=R
+
+//backpack upgrade
+[Repm]
+Hotkey=R
+
+// Eat Tree
+[Aeat]
+Hotkey=A
+
+// Uproot
+[Aro1]
+Hotkey=R
+Unotkey=V
+
+// Uproot (Ancient Protector)
+[Aro2]
+Hotkey=R
+Unotkey=R
+
+//ancient protector
+[etrp]
+Hotkey=R
+
+//tree of life
+[etol]
+Hotkey=A
+
+// Entangle gold mine
+[Aent]
+Hotkey=X
+
+// Entangled Gold Mine Cargo (load/unload)
+[Aenc]
+Hotkey=A
+Unotkey=Z
+
+// Cargo Load entangled mine
+[Slo2]
+Hotkey=A
+
+// Cargo Unload (Instant, gold mine)
+[Adri]
+Hotkey=Z
+
+//upgrade to tree of ages
+[etoa]
+Hotkey=W
+
+//upgrade to tree of eternity
+[etoe]
+Hotkey=W
+
+//hunter's hall
+[edob]
+Hotkey=E
+
+//altar of elders
+[eate]
+Hotkey=S
+
+//ancient of lore
+[eaoe]
+Hotkey=D
+
+//ancient of war
+[eaom]
+Hotkey=Z
+
+//ancient of wind
+[eaow]
+Hotkey=W
+
+//ancient of wonders
+[eden]
+Hotkey=C
+
+//chimaera roost
+[edos]
+Hotkey=X
+
+//moon well
+[emow]
+Hotkey=Q
+
+// Moon pool mana replenish
+[Ambt]
+Hotkey=A
+Unotkey=A
+
+//Demon Hunter
+[Edem]
+Hotkey=A
+
+// Mana Burn
+[AEmb]
+Hotkey=A
+Researchhotkey=A
+
+// Immolation
+[AEim]
+Hotkey=Z
+Unotkey=Z
+Researchhotkey=Z
+
+// Evasion
+[AEev]
+Researchhotkey=E
+
+// Metamorphosis
+[AEme]
+Hotkey=R
+Researchhotkey=R
+
+//keeper of the grove
+[Ekee]
+Hotkey=Z
+
+// Entangling Roots
+[AEer]
+Hotkey=A
+Researchhotkey=A
+
+// Force of Nature
+[AEfn]
+Hotkey=Z
+Researchhotkey=Z
+
+// Thorns Aura
+[AEah]
+Researchhotkey=E
+
+// Tranquility
+[AEtq]
+Hotkey=R
+Researchhotkey=R
+
+//priestess of the moon
+[Emoo]
+Hotkey=E
+
+// Scout
+[AEst]
+Hotkey=A
+Researchhotkey=A
+
+// Searing Arrows
+[AHfa]
+Hotkey=Z
+Unotkey=Z
+Researchhotkey=Z
+
+// Trueshot Aura
+[AEar]
+Researchhotkey=E
+
+// Starfall
+[AEsf]
+Hotkey=R
+Researchhotkey=R
+
+//warden
+[Ewar]
+Hotkey=R
+
+// Blink
+[AEbl]
+Hotkey=A
+Researchhotkey=A
+
+// Fan of Knives
+[AEfk]
+Hotkey=Z
+Researchhotkey=Z
+
+// Shadow Strike
+[AEsh]
+Hotkey=E
+Researchhotkey=E
+
+// Avatar of Vengeance
+[AEsv]
+Hotkey=R
+Researchhotkey=R
+
+// Vengeance
+[Avng]
+Hotkey=A
+
+//acolyte
+[uaco]
+Hotkey=A
+
+// Unsummon
+[Auns]
+Hotkey=X
+
+// Acolyte Harvest
+[Aaha]
+Hotkey=F
+Unotkey=F
+
+// Restore (acolyte repair)
+[Arst]
+Hotkey=R
+Unotkey=R
+
+//abomination
+[uabo]
+Hotkey=Z
+
+// Cannibalize (abomination)
+[Acn2]
+Hotkey=A
+
+//banshee
+[uban]
+Hotkey=Z
+
+// Curse
+[Acrs]
+Hotkey=A
+Unotkey=A
+
+// Anti-magic Shell
+[Aams]
+Hotkey=Z
+
+// Anti-magic Shell
+[Aam2]
+Hotkey=Z
+
+// Possession
+[Apos]
+Hotkey=E
+
+// Possession
+[Aps2]
+Hotkey=E
+
+//crypt fiend
+[ucry]
+Hotkey=Z
+
+// Web
+[Aweb]
+Hotkey=A
+Unotkey=A
+
+// Burrow (crypt fiend)
+[Abur]
+Hotkey=R
+Unotkey=R
+
+//frost wyrm
+[ufro]
+Hotkey=A
+
+//gargoyle
+[ugar]
+Hotkey=E
+
+// Stone Form
+[Astn]
+Hotkey=A
+Unotkey=A
+
+//ghoul
+[ugho]
+Hotkey=A
+
+// Cannibalize (ghoul)
+[Acan]
+Hotkey=A
+
+//necromancer
+[unec]
+Hotkey=A
+
+// Raise Dead
+[Arai]
+Hotkey=A
+Unotkey=A
+
+// Unholy Frenzy
+[Auhf]
+Hotkey=Z
+
+// Cripple
+[Acri]
+Hotkey=E
+
+//meat wagon
+[umtw]
+Hotkey=A
+
+// Load Corpse
+[Amel]
+Hotkey=A
+Unotkey=A
+
+// Unload Corpse
+[Amed]
+Hotkey=Z
+
+//obsidian statue
+[uobs]
+Hotkey=E
+
+// Spirit Touch 
+[Arpm]
+Hotkey=Z
+Unotkey=Z
+
+// Essence of Blight
+[Arpl]
+Hotkey=A
+Unotkey=A
+
+//destroyer
+[ubsp]
+Hotkey=R
+
+// Orb of Annihilation
+[Afak]
+Hotkey=Z
+Unotkey=Z
+
+// Devour Magic
+[Advm]
+Hotkey=A
+
+// Absorb Mana
+[Aabs]
+Hotkey=R
+
+//destroy form upgrade
+[Rusp]
+Hotkey=C
+
+//unholy strength upgrades
+[Rume]
+Hotkey=Q,Q,Q
+
+//creature attack upgrades
+[Rura]
+Hotkey=W,W,W
+
+//unholy armor upgrades
+[Ruar]
+Hotkey=A,A,A
+
+//creature carapace upgrades
+[Rucr]
+Hotkey=S,S,S
+
+//cannabalize upgrade
+[Ruac]
+Hotkey=Q
+
+//ghoul frenzy upgrade
+[Rugf]
+Hotkey=W
+
+//web upgrade
+[Ruwb]
+Hotkey=X
+
+//stone form upgrade
+[Rusf]
+Hotkey=C
+
+//necromancer training upgrades
+[Rune]
+Hotkey=Y,Y
+
+//banshee training upgrades
+[Ruba]
+Hotkey=X,X
+
+//freezing breath upgrade
+[Rufb]
+Hotkey=W
+
+//skeletal longevity upgrade
+[Rusl]
+Hotkey=C
+
+//disease cloud upgrade
+[Rupc]
+Hotkey=X
+
+//skeletal mastery upgrade
+[Rusm]
+Hotkey=D
+
+//burrow upgrade
+[Rubu]
+Hotkey=S
+
+//exhume corpses upgrade
+[Ruex]
+Hotkey=W
+
+//backpack upgrade
+[Rupm]
+Hotkey=R
+
+//boneyard
+[ubon]
+Hotkey=X
+
+//sacrificial pit
+[usap]
+Hotkey=W
+
+// Sacrifice (Acolyte's button)
+[Alam]
+Hotkey=V
+
+// Sacrifice (On building)
+[Asac]
+Hotkey=A
+
+//slaughterhouse
+[uslh]
+Hotkey=F
+
+//graveyard
+[ugrv]
+Hotkey=R
+
+//altar of darkness
+[uaod]
+Hotkey=S
+
+//necropolis
+[unpl]
+Hotkey=A
+
+//halls of the dead
+[unp1]
+Hotkey=W
+
+//black citadel
+[unp2]
+Hotkey=W
+
+//crypt
+[usep]
+Hotkey=Z
+
+//temple of the damned
+[utod]
+Hotkey=D
+
+//tomb of relics
+[utom]
+Hotkey=C
+
+//haunted gold mine
+[ugol]
+Hotkey=E
+
+//ziggurat
+[uzig]
+Hotkey=Q
+
+//spirit tower
+[uzg1]
+Hotkey=A
+
+//nerubian tower
+[uzg2]
+Hotkey=Z
+
+//crypt lord
+[Ucrl]
+Hotkey=R
+
+// Impale
+[AUim]
+Hotkey=A
+Researchhotkey=A
+
+//spiked carapace
+[AUts]
+Researchhotkey=Z
+
+// Carrion Beetles
+[AUcb]
+Hotkey=E
+Researchhotkey=E
+
+// Burrow (scarab lvl 2)
+[Abu2]
+Hotkey=R
+Unotkey=R
+
+// Burrow (scarab lvl 3)
+[Abu3]
+Hotkey=R
+Unotkey=R
+
+// Locust Swarm
+[AUls]
+Hotkey=R
+Researchhotkey=R
+
+//death knight
+[Udea]
+Hotkey=A
+
+// Death Coil
+[AUdc]
+Hotkey=A
+Researchhotkey=A
+
+// Unholy Aura
+[AUau]
+Researchhotkey=E
+
+// Death Pact
+[AUdp]
+Hotkey=Z
+Researchhotkey=Z
+
+// Animate Dead
+[AUan]
+Hotkey=R
+Researchhotkey=R
+
+//dreadlord
+[Udre]
+Hotkey=Z
+
+// Carrion Swarm
+[AUcs]
+Hotkey=A
+Researchhotkey=A
+
+// Sleep
+[AUsl]
+Hotkey=Z
+Researchhotkey=Z
+
+// Vampiric Aura
+[AUav]
+Researchhotkey=E
+
+//inferno
+[AUin]
+Hotkey=R
+Researchhotkey=R
+
+//lich
+[Ulic]
+Hotkey=E
+
+// Frost Nova
+[AUfn]
+Hotkey=A
+Researchhotkey=A
+
+// Frost Armor (Autocast, Lich)
+[AUfu]
+Hotkey=Z
+Researchhotkey=Z
+
+// Dark Ritual
+[AUdr]
+Hotkey=E
+Researchhotkey=E
+
+// Death And Decay
+[AUdd]
+Hotkey=R
+Researchhotkey=R
+
+//sea witch
+[Nngs]
+Hotkey=A
+
+// Mana Shield (Sea Witch)
+[ANms]
+Hotkey=E
+Unotkey=E
+Researchhotkey=E
+
+// Forked Lightning (Sea Witch)
+[ANfl]
+Hotkey=A
+Researchhotkey=A
+
+// Frost Arrows (Sea Witch)
+[ANfa]
+Hotkey=Z
+Unotkey=Z
+Researchhotkey=Z
+
+// Tornado (Sea Witch)
+[ANto]
+Hotkey=R
+Researchhotkey=R
+
+//pit lord
+[Nplh]
+Hotkey=Q
+
+// Howl of Terror (Pit Lord)
+[ANht]
+Hotkey=Z
+Researchhotkey=Z
+
+// Rain of Fire (Pit Lord)
+[ANrf]
+Hotkey=A
+Researchhotkey=A
+
+// Cleaving Attack (Pit Lord)
+[ANca]
+Researchhotkey=E
+
+// Doom (Pit Lord)
+[ANdo]
+Hotkey=R
+Researchhotkey=R
+
+//pandaren brewmaster
+[Npbm]
+Hotkey=E
+
+// Breath of Fire (Pandaren Brewmaster)
+[ANbf]
+Hotkey=A
+Researchhotkey=A
+
+// Drunken Brawler (Pandaren Brewmaster)
+[ANdb]
+Researchhotkey=E
+
+// Drunken Haze (Pandaren Brewmaster)
+[ANdh]
+Hotkey=Z
+Researchhotkey=Z
+
+// Storm, Earth, and Fire (Pandaren Brewmaster)
+[ANef]
+Hotkey=R
+Researchhotkey=R
+
+// Wind Walk (wind panda)
+[ANwk]
+Hotkey=E
+
+// cyclone (Wind panda + various creeps -- shared ability)
+[ACcy]
+Hotkey=Z
+
+// dispel magic (wind panda + various creeps -- shared ability)
+[Adsm]
+Hotkey=A
+
+// Taunt (earth panda)
+[ANta]
+Hotkey=Z
+
+//beastmaster
+[Nbst]
+Hotkey=S
+
+// Summon Bear (Beastmaster)
+[ANsg]
+Hotkey=A
+Researchhotkey=A
+
+// Summon Quilbeast (Beastmaster)
+[ANsq]
+Hotkey=Z
+Researchhotkey=Z
+
+// Summon Hawk (Beastmaster)
+[ANsw]
+Hotkey=E
+Researchhotkey=E
+
+// Stampede (Beastmaster)
+[ANst]
+Hotkey=R
+Researchhotkey=R
+
+// Blink (beastmaster bear)
+[ANbl]
+Hotkey=A
+
+[Nbrn]
+Hotkey=Z
+
+// Black Arrow (Dark Ranger)
+[ANba]
+Hotkey=Z
+Researchhotkey=Z
+
+// Silence (Dark Ranger)
+[ANsi]
+Hotkey=A
+Researchhotkey=A
+
+// Life Drain  (Dark Ranger)
+[ANdr]
+Hotkey=E
+Researchhotkey=E
+
+// Charm (Dark Ranger)
+[ANch]
+Hotkey=R
+Researchhotkey=R
+
+// Tinker
+[Ntin]
+Hotkey=D
+
+// Tinker (morph / robo-goblin)
+[Nrob]
+Hotkey=D
+
+// Pocket Factory
+[ANsy]
+Hotkey=A
+Researchhotkey=A
+
+// Pocket Factory
+[ANs1]
+Hotkey=A
+Researchhotkey=A
+
+// Pocket Factory
+[ANs2]
+Hotkey=A
+Researchhotkey=A
+
+// Pocket Factory
+[ANs3]
+Hotkey=A
+Researchhotkey=A
+
+// Cluster Rockets
+[ANcs]
+Hotkey=Z
+Researchhotkey=Z
+
+// Cluster Rockets
+[ANc1]
+Hotkey=Z
+Researchhotkey=Z
+
+// Cluster Rockets
+[ANc2]
+Hotkey=Z
+Researchhotkey=Z
+
+// Cluster Rockets
+[ANc3]
+Hotkey=Z
+Researchhotkey=Z
+
+// Engineering Upgrade
+[ANeg]
+Hotkey=E
+Researchhotkey=E
+
+// Robo-Goblin
+[ANrg]
+Hotkey=R
+Unotkey=R
+Researchhotkey=R
+
+// Robo-Goblin
+[ANg1]
+Hotkey=R
+Unotkey=R
+Researchhotkey=R
+
+// Robo-Goblin
+[ANg2]
+Hotkey=R
+Unotkey=R
+Researchhotkey=R
+
+// Robo-Goblin
+[ANg3]
+Hotkey=R
+Unotkey=R
+Researchhotkey=R
+
+// Demolish
+[ANde]
+
+// Demolish
+[ANd1]
+
+// Demolish
+[ANd2]
+
+// Demolish
+[ANd3]
+
+[ANf1]
+
+[ANf3]
+
+// Kaboom! (Clockwerk goblin level 1)
+[Asdg]
+Hotkey=A
+Unotkey=A
+
+// Kaboom! (Clockwerk goblin level 2)
+[Asd2]
+Hotkey=A
+Unotkey=A
+
+// Kaboom! (Clockwerk goblin level 3)
+[Asd3]
+Hotkey=A
+Unotkey=A
+
+//alchemist
+[Nalc]
+Hotkey=F
+
+//alchemist
+[Nalm]
+Hotkey=X
+
+//alchemist (morph, 2)
+[Nal2]
+Hotkey=X
+
+//alchemist (morph, 3)
+[Nal3]
+Hotkey=X
+
+// Healing Spray
+[ANhs]
+Hotkey=A
+Researchhotkey=A
+
+// Acid Bomb
+[ANab]
+Hotkey=E
+Researchhotkey=E
+
+// Chemical Rage
+[ANcr]
+Hotkey=Z
+Researchhotkey=Z
+
+// Transmute
+[ANtm]
+Hotkey=R
+Researchhotkey=R
+
+[Nfir]
+Hotkey=R
+
+// Incinerate
+[ANic]
+Hotkey=E
+Researchhotkey=E
+
+// Incinerate (Arrow)
+[ANia]
+Hotkey=E
+Researchhotkey=E
+
+// Soul Burn
+[ANso]
+Hotkey=A
+Researchhotkey=A
+
+// Summmon Lava Spawn
+[ANlm]
+Hotkey=Z
+Researchhotkey=Z
+
+// Volcano
+[ANvc]
+Hotkey=R
+Researchhotkey=R
+
+// Forest Troll Shadow Priest
+[nfsp]
+Hotkey=A
+
+// Forest Troll Berserker
+[nftb]
+Hotkey=Z
+
+// Mud Golem
+[ngrk]
+Hotkey=E
+
+// Ogre Mauler
+[nogm]
+Hotkey=R
+
+// Gnoll Brute
+[ngnb]
+Hotkey=A
+
+// Gnoll Warden
+[ngnw]
+Hotkey=Z
+
+// Ogre Magi
+[nomg]
+Hotkey=R
+
+// Gnoll Overseer
+[ngnv]
+Hotkey=R
+
+// Ice Troll Trapper
+[nitt]
+Hotkey=A
+
+// Centaur Outrunner
+[ncen]
+Hotkey=A
+
+// Harpy Rogue
+[nhrr]
+Hotkey=Z
+
+// Harpy Windwitch
+[nhrw]
+Hotkey=E
+
+// Razormane Medicine Man
+[nrzm]
+Hotkey=R
+
+// Satyr Shadowdancer
+[nsts]
+Hotkey=A
+
+// Furbolg Shaman
+[nfrs]
+Hotkey=Z
+
+// Thunder Lizard
+[nthl]
+Hotkey=E
+
+// Murloc Flesheater
+[nmfs]
+Hotkey=A
+
+// Sludge Flinger
+[nslf]
+Hotkey=Z
+
+// Satyr Soulstealer
+[nstl]
+Hotkey=E
+
+// Nerubian Warrior
+[nnwa]
+Hotkey=A
+
+// Ice Troll Berserker
+[nits]
+Hotkey=Z
+
+// Nerubian Webspinner
+[nnwl]
+Hotkey=E
+
+// Frost Revenant
+[nrvs]
+Hotkey=R
+
+// Rogue
+[nrog]
+Hotkey=A
+
+// Assassin
+[nass]
+Hotkey=Z
+
+// Kobold Geomancer
+[nkog]
+Hotkey=E
+
+// Forest Troll High Priest
+[nfsh]
+Hotkey=R
+
+// Kobold
+[nkob]
+Hotkey=Z
+
+// Murloc Huntsman
+[nmrr]
+Hotkey=R
+
+// Burning Archer
+[nskf]
+Hotkey=A
+
+// Wildkin
+[nowb]
+Hotkey=Z
+
+// Giant Sea Turtle
+[ntrt]
+Hotkey=A
+
+// Makrura Snapper
+[nlsn]
+Hotkey=Z
+
+// Mur'gul Snarecaster
+[nmsn]
+Hotkey=E
+
+// Makrura Deepseer
+[nlds]
+Hotkey=R
+
+// Barbed Arachnathid
+[nanm]
+Hotkey=A
+
+// Blue Dragonspawn Meddler
+[nbdm]
+Hotkey=Z
+
+// Polar Furbolg Shaman
+[nfps]
+Hotkey=E
+
+// Magnatur Warrior
+[nmgw]
+Hotkey=R
+
+// Fel Beast
+[npfl]
+Hotkey=A
+
+// Draenei Disciple
+[ndrm]
+Hotkey=Z
+
+// Voidwalker
+[nvdw]
+Hotkey=E
+
+// Draenei Darkslayer
+[ndrd]
+Hotkey=R
+
+// Transport Ship
+[nbot]
+Hotkey=A
+
+// Goblin Sapper
+[ngsp]
+Hotkey=A
+
+// Goblin Zeppelin
+[nzep]
+Hotkey=Z
+
+// Goblin Shredder
+[ngir]
+Hotkey=E
+
+// Reveal
+[Andt]
+Hotkey=R
+
+// Black Dragon Whelp
+[nbdr]
+Hotkey=A
+
+// Black Drake
+[nbdk]
+Hotkey=Z
+
+// Black Dragon
+[nbwm]
+Hotkey=E
+
+// Blue Dragon Whelp
+[nadw]
+Hotkey=A
+
+// Blue Drake
+[nadk]
+Hotkey=Z
+
+// Blue Dragon
+[nadr]
+Hotkey=E
+
+// Bronze Dragon Whelp
+[nbzw]
+Hotkey=A
+
+// Bronze Drake
+[nbzk]
+Hotkey=Z
+
+// Bronze Dragon
+[nbzd]
+Hotkey=E
+
+// Green Dragon Whelp
+[ngrw]
+Hotkey=A
+
+// Green Drake
+[ngdk]
+Hotkey=Z
+
+// Green Dragon
+[ngrd]
+Hotkey=E
+
+// Nether Dragon Hatchling
+[nnht]
+Hotkey=A
+
+// Nether Drake
+[nndk]
+Hotkey=Z
+
+// Nether Dragon
+[nndr]
+Hotkey=E
+
+// Red Dragon Whelp
+[nrdk]
+Hotkey=A
+
+// Red Drake
+[nrdr]
+Hotkey=Z
+
+// Red Dragon
+[nrwm]
+Hotkey=E
+
+// Cannibalize
+[ACcn]
+Hotkey=A
+
+// Slow
+[ACsw]
+Hotkey=A
+
+// Mana Burn
+[Ambd]
+Hotkey=Z
+Buttonpos=1,2
+
+// Raise Dead
+[ACrd]
+Hotkey=A
+
+// Devour
+[ACdv]
+Hotkey=A
+
+// Kaboom!
+[Asds]
+Hotkey=A
+
+// Web
+[ACwb]
+Hotkey=Z
+
+// Heal
+[Anhe]
+Hotkey=A
+
+// Heal
+[Anh1]
+Hotkey=A
+
+// Burrow (Barbed Arachnathid)
+[Abu5]
+Hotkey=R
+Unotkey=R
+
+// Immolation
+[Acim]
+Hotkey=Z
+Unotkey=Z
+
+// Cold Arrows
+[ACcw]
+Hotkey=A
+
+// Cold Arrows
+[AHca]
+Hotkey=A
+
+// Frost Armor
+[AUfu]
+Hotkey=Z
+
+// Frost Armor
+[ACf2]
+Hotkey=Z
+
+// Abolish Magic
+[ACdm]
+Hotkey=A
+
+// Entangling Roots
+[Aenw]
+Hotkey=A
+
+// Summon Prawns
+[Aslp]
+Hotkey=E
+
+// Searing Arrows
+[ACsa]
+Hotkey=Z
+
+// Slow
+[ACsw]
+Hotkey=A
+
+// Blizzard
+[ACbz]
+Hotkey=A
+
+// Heal
+[Anh2]
+Hotkey=A
+
+// Inner Fire
+[ACif]
+Hotkey=E
+
+// Abolish Magic
+[ACd2]
+Hotkey=Z
+
+// Ensnare
+[ACen]
+Hotkey=A
